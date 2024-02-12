@@ -1,0 +1,11 @@
+{
+    "article": {
+        "id": 1,
+        "title":"Arctic sea ice extent hits record low for winter maximum",
+        "source":"CNN",
+        "date":"03.04.2015",
+        "channel": "science",
+        "imageUrl": "https://raw.githubusercontent.com/qvik/qvik-assignment/master/src/assets/background_article_header.png",
+        "content": "According to the National Oceanic and Atmospheric Administration, Ted Scambos, NSIDC lead scientist, puts the potentially record low maximum sea ice extent this year down to low ice extent in the Pacific and a late drop in ice extent in the Barents Sea.\nSo what does this new record for the lowest level of winter ice actually mean?\nThe Arctic Ocean freezes every winter and much of the sea-ice then thaws every summer, and that process will continue whatever happens with climate change. Even if the Arctic continues to be one of the fastest-warming regions of the world. It will always be plunged into bitterly cold polar dark every winter. And year-by-year, for all kinds of natural reasons, there's huge variety of the state of the ice."
+    }
+}

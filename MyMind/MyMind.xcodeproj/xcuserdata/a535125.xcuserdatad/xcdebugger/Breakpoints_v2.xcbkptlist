@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F7208ABC-0FF6-4C29-9906-E0FD02DD2E70"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91E865ED-E9FE-45B5-ABE8-DC7973291EDA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMind/ViewModel/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "init(articlesService:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "91E865ED-E9FE-45B5-ABE8-DC7973291EDA - 7ee925abc8ec108b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMind.ArticlesViewModel.init(articlesService: MyMind.ArticlesService) -&gt; MyMind.ArticlesViewModel"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/ViewModel/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "262">
+               </Location>
+               <Location
+                  uuid = "91E865ED-E9FE-45B5-ABE8-DC7973291EDA - 7ee925abc8ec108b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMind.ArticlesViewModel.init(articlesService: MyMind.ArticlesService) -&gt; MyMind.ArticlesViewModel"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/ViewModel/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "91E865ED-E9FE-45B5-ABE8-DC7973291EDA - 7ee925abc8ec10a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMind.ArticlesViewModel.init(articlesService: MyMind.ArticlesService) -&gt; MyMind.ArticlesViewModel"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/ViewModel/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8BB9E75-C2BC-4A72-9960-9C5F369ADE73"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMind/ViewModel/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchArticles()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D8BB9E75-C2BC-4A72-9960-9C5F369ADE73 - 291342b8b797c424"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;MyMind.Articles&gt;) -&gt; () in MyMind.ArticlesViewModel.fetchArticles() -&gt; ()"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/ViewModel/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "81">
+               </Location>
+               <Location
+                  uuid = "D8BB9E75-C2BC-4A72-9960-9C5F369ADE73 - c3a4f08d4f87220"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (MyMind.Articles) -&gt; () in MyMind.ArticlesViewModel.fetchArticles() -&gt; ()"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/ViewModel/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "162">
+               </Location>
+               <Location
+                  uuid = "D8BB9E75-C2BC-4A72-9960-9C5F369ADE73 - 6ae45cb627d62f40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (MyMind.ArticlesList) -&gt; () in MyMind.ArticlesViewModel.fetchArticles() -&gt; ()"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/ViewModel/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "162">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84E3A591-C027-46E5-973A-13E3DE970AC9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMind/ViewModel/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "loadLocalJSONFile()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "84E3A591-C027-46E5-973A-13E3DE970AC9 - 94560b0324807916"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMind.ArticlesViewModel.loadLocalJSONFile() -&gt; ()"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/ViewModel/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1065">
+               </Location>
+               <Location
+                  uuid = "84E3A591-C027-46E5-973A-13E3DE970AC9 - 94560b03248079f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMind.ArticlesViewModel.loadLocalJSONFile() -&gt; ()"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/ViewModel/ArticlesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "686">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B7C1AB0-EAEB-4DAD-8E19-832B8EA74519"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMind/Network/ArticleService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getArticle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2B7C1AB0-EAEB-4DAD-8E19-832B8EA74519 - 4f6e66c8a4bd95d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in MyMind.ArticleService.getArticle() -&gt; Combine.AnyPublisher&lt;MyMind.Article, Swift.Error&gt;"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/Network/ArticleService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  uuid = "2B7C1AB0-EAEB-4DAD-8E19-832B8EA74519 - 924c58371505e166"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in MyMind.ArticleService.getArticle() -&gt; Combine.AnyPublisher&lt;MyMind.ArticleResponse, Swift.Error&gt;"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/Network/ArticleService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  uuid = "2B7C1AB0-EAEB-4DAD-8E19-832B8EA74519 - 924c58371505e166"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in MyMind.ArticleService.getArticle() -&gt; Combine.AnyPublisher&lt;MyMind.ArticleResponse, Swift.Error&gt;"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/Network/ArticleService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "365">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D6A9622-72C4-485B-8F6F-3D4CE3A1D78B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMind/ViewModel/ArticleViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchArticle()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33B0F719-9170-4B6C-9D92-54A4E4FAA041"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMind/ViewModel/ArticleViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchArticle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "33B0F719-9170-4B6C-9D92-54A4E4FAA041 - 2c1fca5165f41b79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in MyMind.ArticleViewModel.fetchArticle() -&gt; ()"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/ViewModel/ArticleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "526">
+               </Location>
+               <Location
+                  uuid = "33B0F719-9170-4B6C-9D92-54A4E4FAA041 - 2c1fca5165f41b58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in MyMind.ArticleViewModel.fetchArticle() -&gt; ()"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/ViewModel/ArticleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "526">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37F04B0D-6BFD-452C-AA69-A3DC764A78AA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMind/ViewModel/ArticleViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "fetchArticle()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "37F04B0D-6BFD-452C-AA69-A3DC764A78AA - 9acea6ea220a0fe2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMind.ArticleViewModel.fetchArticle() -&gt; ()"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/ViewModel/ArticleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "37F04B0D-6BFD-452C-AA69-A3DC764A78AA - 2c1fca5165f41b3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in MyMind.ArticleViewModel.fetchArticle() -&gt; ()"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/ViewModel/ArticleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "708">
+               </Location>
+               <Location
+                  uuid = "37F04B0D-6BFD-452C-AA69-A3DC764A78AA - 6d5605313461e450"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (MyMind.ArticleResponse) -&gt; () in MyMind.ArticleViewModel.fetchArticle() -&gt; ()"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/ViewModel/ArticleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  uuid = "37F04B0D-6BFD-452C-AA69-A3DC764A78AA - 6d5605313461e450"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (MyMind.ArticleResponse) -&gt; () in MyMind.ArticleViewModel.fetchArticle() -&gt; ()"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/ViewModel/ArticleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "126">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F3069DA-3F84-4311-AD13-1037C8C06789"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMind/ViewModel/ChannelsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchChannels()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7F3069DA-3F84-4311-AD13-1037C8C06789 - 7d1f6878b058f730"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in MyMind.ChannelsViewModel.fetchChannels() -&gt; ()"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/ViewModel/ChannelsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "521">
+               </Location>
+               <Location
+                  uuid = "7F3069DA-3F84-4311-AD13-1037C8C06789 - 7d1f6878b058f6d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in MyMind.ChannelsViewModel.fetchChannels() -&gt; ()"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/ViewModel/ChannelsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "526">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B93904A-BEE8-49D2-917E-A768C1838252"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMind/Network/ChannelsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getChannels()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4B93904A-BEE8-49D2-917E-A768C1838252 - 5184baa6edb3bffb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in MyMind.ChannelsService.getChannels() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;MyMind.Channel&gt;, Swift.Error&gt;"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/Network/ChannelsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "365">
+               </Location>
+               <Location
+                  uuid = "4B93904A-BEE8-49D2-917E-A768C1838252 - fdb5080ef816f157"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in MyMind.ChannelsService.getChannels() -&gt; Combine.AnyPublisher&lt;MyMind.ChannelsList, Swift.Error&gt;"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/Network/ChannelsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "365">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8930E408-C744-4118-8422-7F4197AF32DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMind/Network/ChannelsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "getChannels()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8930E408-C744-4118-8422-7F4197AF32DD - 5184baa6edb3bf5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in MyMind.ChannelsService.getChannels() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;MyMind.Channel&gt;, Swift.Error&gt;"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/Network/ChannelsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "430">
+               </Location>
+               <Location
+                  uuid = "8930E408-C744-4118-8422-7F4197AF32DD - fdb5080ef816f1f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in MyMind.ChannelsService.getChannels() -&gt; Combine.AnyPublisher&lt;MyMind.ChannelsList, Swift.Error&gt;"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/Network/ChannelsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "430">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C94D548-5C25-4F08-9924-3428B9325B39"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMind/ViewModel/ArticlesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "init(articlesService:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB1E5460-5239-4561-BD34-A5A28A0DEBF9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyMind/ViewModel/ChannelsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchChannels()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CB1E5460-5239-4561-BD34-A5A28A0DEBF9 - bad0732b092cf238"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyMind.ChannelsViewModel.fetchChannels() -&gt; ()"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/ViewModel/ChannelsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "CB1E5460-5239-4561-BD34-A5A28A0DEBF9 - 7d1f6878b058f6b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in MyMind.ChannelsViewModel.fetchChannels() -&gt; ()"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/ViewModel/ChannelsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "762">
+               </Location>
+               <Location
+                  uuid = "CB1E5460-5239-4561-BD34-A5A28A0DEBF9 - a6c3d24c4fc6a55c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (MyMind.ChannelsList) -&gt; () in MyMind.ChannelsViewModel.fetchChannels() -&gt; ()"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/ViewModel/ChannelsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "CB1E5460-5239-4561-BD34-A5A28A0DEBF9 - a6c3d24c4fc6a55c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (MyMind.ChannelsList) -&gt; () in MyMind.ChannelsViewModel.fetchChannels() -&gt; ()"
+                  moduleName = "MyMind"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a535125/Documents/Learn/iOS/2024/MyMind/MyMind/ViewModel/ChannelsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "81">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

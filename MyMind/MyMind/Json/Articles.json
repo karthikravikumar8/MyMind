@@ -1,0 +1,50 @@
+{
+    "channel": {
+        "id":2,
+        "channel":"Science",
+        "followers":"234K followers",
+        "imageUrl":"https://raw.githubusercontent.com/qvik/qvik-assignment/master/src/assets/Background_channelheader_Science.png",
+        "articles": [
+            {
+                "id": 1,
+                "title": "Artic sea ice extend hits record low for winter maximum",
+                "source": "CNN",
+                "date": "03.04.2015",
+                "sourceImage": "https://raw.githubusercontent.com/qvik/qvik-assignment/master/src/assets/icon_list_source.png",
+                "dateImage": "https://raw.githubusercontent.com/qvik/qvik-assignment/master/src/assets/icon_list_time.png"
+            },
+            {
+                "id": 2,
+                "title": "Archeologists discovered lost city in Honduran jungle",
+                "source": "CNN",
+                "date": "03.04.2015",
+                "sourceImage": "https://raw.githubusercontent.com/qvik/qvik-assignment/master/src/assets/icon_list_source.png",
+                "dateImage": "https://raw.githubusercontent.com/qvik/qvik-assignment/master/src/assets/icon_list_time.png"
+            },
+            {
+                "id": 3,
+                "title": "The balloons that could fly tourists to the edge of space",
+                "source": "CNN",
+                "date": "01.04.2015",
+                "sourceImage": "https://raw.githubusercontent.com/qvik/qvik-assignment/master/src/assets/icon_list_source.png",
+                "dateImage": "https://raw.githubusercontent.com/qvik/qvik-assignment/master/src/assets/icon_list_time.png"
+            },
+            {
+                "id": 4,
+                "title": "In the Prawn Nebula, a Nursery for Newborn Stars",
+                "source": "The New York Times",
+                "date": "30.03.2015",
+                "sourceImage": "https://raw.githubusercontent.com/qvik/qvik-assignment/master/src/assets/icon_list_source.png",
+                "dateImage": "https://raw.githubusercontent.com/qvik/qvik-assignment/master/src/assets/icon_list_time.png"
+            },
+            {
+                "id": 5,
+                "title": "What will the battleship of the Future look like?",
+                "source": "Popular Science",
+                "date": "01.04.2015",
+                "sourceImage": "https://raw.githubusercontent.com/qvik/qvik-assignment/master/src/assets/icon_list_source.png",
+                "dateImage": "https://raw.githubusercontent.com/qvik/qvik-assignment/master/src/assets/icon_list_time.png"
+            }
+        ]
+    }
+}

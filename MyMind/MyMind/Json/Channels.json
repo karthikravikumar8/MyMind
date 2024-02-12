@@ -1,0 +1,44 @@
+{
+     "channels": [
+          {
+               "id": 1,
+               "channel": "fashion",
+               "imageUrl": "https://raw.githubusercontent.com/qvik/qvik-assignment/master/src/assets/Thumbnail_channel_Fashion.png"
+          },
+          {
+               "id": 2,
+               "channel": "science",
+               "imageUrl": "https://raw.githubusercontent.com/qvik/qvik-assignment/master/src/assets/Thumbnail_channel_Science.png"
+          },
+          {
+               "id": 3,
+               "channel": "auto",
+               "imageUrl": "https://raw.githubusercontent.com/qvik/qvik-assignment/master/src/assets/Thumbnail_channel_Auto.png"
+          },
+          {
+               "id": 4,
+               "channel": "technology",
+               "imageUrl": "https://raw.githubusercontent.com/qvik/qvik-assignment/master/src/assets/Thumbnail_channel_Technology.png"
+          },
+          {
+               "id": 5,
+               "channel": "entertainment",
+               "imageUrl": "https://raw.githubusercontent.com/qvik/qvik-assignment/master/src/assets/Thumbnail_channel_Entertainment.png"
+          },
+          {
+               "id": 6,
+               "channel": "environment",
+               "imageUrl": "https://raw.githubusercontent.com/qvik/qvik-assignment/master/src/assets/Thumbnail_channel_Environment.png"
+          },
+          {
+               "id": 7,
+               "channel": "finances",
+               "imageUrl": "https://raw.githubusercontent.com/qvik/qvik-assignment/master/src/assets/Thumbnail_channel_Finance.png"
+          },
+          {
+               "id": 8,
+               "channel": "travel",
+               "imageUrl": "https://raw.githubusercontent.com/qvik/qvik-assignment/master/src/assets/Thumbnail_channel_Travel.png"
+          }
+     ]
+}
